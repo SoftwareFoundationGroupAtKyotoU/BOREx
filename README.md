@@ -133,3 +133,23 @@
     typing_extensions==4.4.0
     urllib3==1.26.14
     ```
+
+## Reference
+
+Atsushi Kikuchi, Kotaro Uchida, Masaki Waga, Kohei Suenaga: BOREx: Bayesian-Optimization-Based Refinement of Saliency Map for Image- and Video-Classification Models. ACCV (7) 2022: 274-290
+
+```
+@inproceedings{borex,
+  author       = {Atsushi Kikuchi and
+                  Kotaro Uchida and
+                  Masaki Waga and
+                  Kohei Suenaga},
+  title        = {BOREx: Bayesian-Optimization-Based Refinement of Saliency Map for
+                  Image- and Video-Classification Models},
+  booktitle    = {{ACCV} 2022},
+  pages        = {274--290},
+  year         = {2022},
+  url          = {https://doi.org/10.1007/978-3-031-26293-7\_17},
+  doi          = {10.1007/978-3-031-26293-7\_17},
+}
+```
